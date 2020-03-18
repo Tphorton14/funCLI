@@ -1,1 +1,1 @@
-# simpleCLI
+# funCLI
